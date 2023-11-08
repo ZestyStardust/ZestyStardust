@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ZestyStardust
+- 👀 I’m interested in software/game development
+- 🌱 I’m currently learning how to use game engines such as Godot and Unity
+- 💞️ I’m looking to collaborate on some fun games and game jams
+- 📫You can reach me at oetalley@gmail.com
